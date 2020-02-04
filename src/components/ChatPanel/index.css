@@ -1,0 +1,7 @@
+.chat-panel {
+  position: absolute;
+  left: 310px;
+  right: 250px;
+  height: 100vh;
+  background-color: #242424;
+}
