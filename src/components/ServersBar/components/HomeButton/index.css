@@ -1,0 +1,21 @@
+.srv-home {
+  width: 45px;
+  height: 45px;
+
+  display: inline-block;
+
+  margin: 5px;
+  margin-top: 15px;
+
+  border-radius: 50%;
+
+  background: url(./mask.svg) no-repeat center;
+  background-size: 50%;
+  background-color: #242424;
+
+  transition-duration: 0.3s;
+}
+
+.srv-home:hover {
+  border-radius: 25%;
+}
