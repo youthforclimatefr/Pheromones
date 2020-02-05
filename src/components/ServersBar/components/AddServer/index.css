@@ -7,7 +7,7 @@
   margin: 5px;
 
   border-radius: 50%;
-  border: 2px solid white;
+  border: 2px dashed white;
 
   background: url(./add.svg) no-repeat center;
   background-size: 50%;
@@ -17,6 +17,5 @@
 }
 
 .srv-add:hover {
-  background-color: white;
-  color: black;
+  transform: rotate(180deg);
 }

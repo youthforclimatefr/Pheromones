@@ -1,7 +1,13 @@
 .left-panel {
   position: absolute;
-  left: 60px;
+  left: 65px;
   width: 250px;
   height: 100vh;
   background-color: #141414;
+}
+
+h1 {
+  color: white;
+  font-size: 25px;
+  margin-left: 5%;
 }
